@@ -18,21 +18,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Seconda NAS",
+    "name": "Second NAS",
     "url": "$SECOND_NAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "seconda-nas",
+    "slug": "second-nas",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 751,
-    "timeWeek": 751,
-    "timeMonth": 751,
-    "timeYear": 751,
+    "time": 848,
+    "timeDay": 848,
+    "timeWeek": 848,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {}
   }
 ]
