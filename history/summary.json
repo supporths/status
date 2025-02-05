@@ -22,19 +22,19 @@
     "url": "$SECOND_NAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "second-nas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4088,
-    "timeDay": 7310,
-    "timeWeek": 4088,
-    "timeMonth": 4088,
-    "timeYear": 4088,
+    "status": "up",
+    "uptime": "96.53%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "96.53%",
+    "time": 3516,
+    "timeDay": 5282,
+    "timeWeek": 3516,
+    "timeMonth": 3516,
+    "timeYear": 3516,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 67
     }
   }
 ]
