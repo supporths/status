@@ -4,7 +4,7 @@
     "url": "$MAIN_NAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-nas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 642,
     "timeMonth": 642,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-07": 0
+    }
   },
   {
     "name": "Second NAS",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "second-nas",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
     "time": 3622,
     "timeDay": 2723,
     "timeWeek": 3622,
