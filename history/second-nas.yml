@@ -1,7 +1,7 @@
 url: $SECOND_NAS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-03T23:14:11.903Z
+status: up
+code: 200
+responseTime: 2336
+lastUpdated: 2025-05-04T09:53:44.737Z
 startTime: 2025-02-03T19:37:36.422Z
 generator: Upptime <https://github.com/upptime/upptime>
