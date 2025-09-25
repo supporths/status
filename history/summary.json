@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-09-25": 51,
+      "2025-09-25": 75,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
@@ -241,8 +241,8 @@
     "slug": "second-nas",
     "status": "down",
     "uptime": "91.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "68.58%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "68.34%",
     "uptimeMonth": "75.38%",
     "uptimeYear": "91.31%",
     "time": 1042,
@@ -251,7 +251,7 @@
     "timeMonth": 973,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2025-09-25": 0,
+      "2025-09-25": 24,
       "2025-09-22": 509,
       "2025-09-21": 1440,
       "2025-09-20": 1218,
