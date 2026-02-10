@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-nas",
     "status": "down",
-    "uptime": "5.81%",
+    "uptime": "5.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.55%",
+    "uptimeYear": "4.28%",
     "time": 578,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 557,
+    "timeYear": 554,
     "dailyMinutesDown": {
-      "2026-02-09": 121,
+      "2026-02-10": 131,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -375,7 +376,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "second-nas",
     "status": "down",
-    "uptime": "67.72%",
+    "uptime": "67.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -386,7 +387,8 @@
     "timeMonth": 0,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2026-02-09": 121,
+      "2026-02-10": 131,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -521,8 +523,7 @@
       "2025-04-29": 1440,
       "2025-04-28": 783,
       "2025-02-12": 39,
-      "2025-02-11": 518,
-      "2025-02-10": 1440
+      "2025-02-11": 518
     }
   }
 ]
